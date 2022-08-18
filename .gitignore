@@ -131,3 +131,5 @@ combined.json
 dask-worker-space/
 mydask.png
 mursst_jsons/
+*.json
+*.nc
